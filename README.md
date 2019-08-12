@@ -1,6 +1,6 @@
 ### 概要
 
-Next.jsでHello, World的なアプリケーションを作ってみた。
+React+Next.js+TypesripでHello, World的なWebアプリケーションを作ってみた。
 
 ### 実行方法 
 
